@@ -1,7 +1,7 @@
 # Resource List for Craft Academy students (and any other interested parties)
 
 ## Git and GitHub
-- [Git and GitHub cheat sheet]('https://services.github.com/kit/downloads/github-git-cheat-sheet.pdf')
+- [Git and GitHub cheat sheet]("https://services.github.com/kit/downloads/github-git-cheat-sheet.pdf")
 - [README template]('https://gist.github.com/PurpleBooth/109311bb0361f32d87a2')
 - [How to write good commit messages]('http://chris.beams.io/posts/git-commit/')
 
