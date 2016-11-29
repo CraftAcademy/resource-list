@@ -8,14 +8,20 @@
 ## Ruby
 - [Rspec matchers cheat sheet]('http://www.rubypigeon.com/posts/rspec-expectations-cheat-sheet/')
 - [Capybara matchers cheat sheet]('https://gist.github.com/tomas-stefano/6652111')
+- Codecademy Ruby
 
 ## Javascript
+- Codecademy Javascript
+
+## HTML and CSS
+- Codecademy HTML
 
 ## Markdown
 - [Markdown Tutorial]('http://commonmark.org/help/tutorial/')
 
 ## Rails and Sinatra
 - [Sinatra Documentation]('http://www.sinatrarb.com/intro.html')
+- [DataMapper Documentation]('http://datamapper.org/docs/')
 
 ## Programming Fundamentals
 - [Fundamentals workshop]('https://github.com/AmberWilkie/fundamentals-workshop/blob/master/workshop_main.md') - prepared by a former Craft Academy student.
