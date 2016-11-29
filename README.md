@@ -22,3 +22,4 @@
 
 ## Miscellaneous
 - [Slack cheat sheet]('https://www.shortcutfoo.com/app/dojos/slack-win/cheatsheet')
+- [Top Ten Atom Packages]('https://www.sitepoint.com/10-essential-atom-add-ons/') - customize your Atom with handy extensions that make it easier to code.
