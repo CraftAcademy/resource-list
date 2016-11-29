@@ -1,4 +1,4 @@
-## How does internet work?
+## How does the internet work?
 Good question! Let me assure you that I have no intention to try to explain every aspect of how Internet is built up and configured. We will only focus on the parts that interests us as developers - and developers are not technicians. We don't deal with hardware and most of the 'how-does-it-work' discussions circle around hardware stuff. 
 
 Forget about it.
