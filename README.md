@@ -13,11 +13,13 @@
 - [Capybara matchers cheat sheet](https://gist.github.com/tomas-stefano/6652111)
 - Codecademy Ruby
 
-## Javascript
+## Javascript and jQuery
 - Codecademy Javascript
+- [jQuery cheat sheet](https://makeawebsitehub.com/jquery-mega-cheat-sheet/)
 
 ## HTML and CSS
 - Codecademy HTML
+- [HTML cheat sheet](http://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf)
 
 ## Markdown
 - [Markdown Tutorial](http://commonmark.org/help/tutorial/)
