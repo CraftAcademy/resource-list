@@ -12,6 +12,7 @@
 - [Rspec matchers cheat sheet](http://www.rubypigeon.com/posts/rspec-expectations-cheat-sheet/)
 - [Capybara matchers cheat sheet](https://gist.github.com/tomas-stefano/6652111)
 - Codecademy Ruby
+- [Ruby classes explained](https://blog.makersacademy.com/coding101-ruby-classes-explained-b0645a721288#.7sfet3zg0)
 
 ## Javascript and jQuery
 - Codecademy Javascript
@@ -37,3 +38,4 @@
 - [Top Ten Atom Packages](https://www.sitepoint.com/10-essential-atom-add-ons/) - customize your Atom with handy extensions that make it easier to code.
 - [Internet Protocols](internet_protocols.md)
 - [OSX Terminal Cheat Sheet](osx-cheatsheet.md)
+- [Upgrading RubyGems](http://stackoverflow.com/questions/13626143/how-to-upgrade-rubygems) - this might help solve the `undefined method 'this'` problem
