@@ -32,10 +32,13 @@
 ## Programming Fundamentals
 - [Fundamentals workshop](https://github.com/AmberWilkie/fundamentals-workshop/blob/master/workshop_main.md) - prepared by a former Craft Academy student.
 
+## Potential Answers to Weird Questions
+- [Upgrading RubyGems](http://stackoverflow.com/questions/13626143/how-to-upgrade-rubygems) - this might help solve the `undefined method 'this'` problem
+
 ## Miscellaneous
 - [Craft Academy videos](https://www.youtube.com/channel/UCJifjJ-LgbQfTLUvear2gfw) - All lectures by Craft Academy coaches and public lectures by guests / students are available online.
 - [Slack cheat sheet](https://www.shortcutfoo.com/app/dojos/slack-win/cheatsheet)
 - [Top Ten Atom Packages](https://www.sitepoint.com/10-essential-atom-add-ons/) - customize your Atom with handy extensions that make it easier to code.
 - [Internet Protocols](internet_protocols.md)
 - [OSX Terminal Cheat Sheet](osx-cheatsheet.md)
-- [Upgrading RubyGems](http://stackoverflow.com/questions/13626143/how-to-upgrade-rubygems) - this might help solve the `undefined method 'this'` problem
+- [Live example of a backend interview test](https://github.com/fishbrain/job-assignment-backend-engineer) - from FishBrain. 'The goal of this project is to assess development skills suitable for a backend developer position. It tests knowledge and proficiency with software design, unit testing and web technologies like HTTP and REST.'
