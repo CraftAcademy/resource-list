@@ -31,6 +31,7 @@
 
 ## Programming Fundamentals
 - [Fundamentals workshop](https://github.com/AmberWilkie/fundamentals-workshop/blob/master/workshop_main.md) - prepared by a former Craft Academy student.
+- [Code visualizer](http://www.pythontutor.com/visualize.html#mode=edit) - really cool thing that steps through your code, showing you how your computer executes it.
 
 ## Potential Answers to Weird Questions
 - [Upgrading RubyGems](http://stackoverflow.com/questions/13626143/how-to-upgrade-rubygems) - this might help solve the `undefined method 'this'` problem
@@ -41,4 +42,4 @@
 - [Top Ten Atom Packages](https://www.sitepoint.com/10-essential-atom-add-ons/) - customize your Atom with handy extensions that make it easier to code.
 - [Internet Protocols](internet_protocols.md)
 - [OSX Terminal Cheat Sheet](osx-cheatsheet.md)
-- [Live example of a backend interview test](https://github.com/fishbrain/job-assignment-backend-engineer) - from FishBrain. 'The goal of this project is to assess development skills suitable for a backend developer position. It tests knowledge and proficiency with software design, unit testing and web technologies like HTTP and REST.'
+- [Live example of a backend interview test](https://github.com/fishbrain/job-assignment-backend-engineer) - from FishBrain. "The goal of this project is to assess development skills suitable for a backend developer position. It tests knowledge and proficiency with software design, unit testing and web technologies like HTTP and REST."
