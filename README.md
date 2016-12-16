@@ -26,12 +26,17 @@
 - [Markdown Tutorial](http://commonmark.org/help/tutorial/)
 
 ## Rails and Sinatra
+- [Rails guides](http://guides.rubyonrails.org/) - extremely helpful series of documentation about Rails. Use this as a first resource for anything basic - routing, Active Record, params, views, etc.
 - [Sinatra Documentation](http://www.sinatrarb.com/intro.html)
 - [DataMapper Documentation](http://datamapper.org/docs/)
 
 ## Programming Fundamentals
 - [Fundamentals workshop](https://github.com/AmberWilkie/fundamentals-workshop/blob/master/workshop_main.md) - prepared by a former Craft Academy student.
 - [Code visualizer](http://www.pythontutor.com/visualize.html#mode=edit) - really cool thing that steps through your code, showing you how your computer executes it.
+
+## Visual Resources
+- [Tynker](https://itunes.apple.com/us/app/tynker-learn-programming-visual/id805869467) - an iPhone game that teaches programming fundamentals. Childish but good for beginners who are having trouble processing the text.
+- [Lrn](http://lrnapp.com/) - phone game for iPhone or Android with lots of mini quizzes
 
 ## Potential Answers to Weird Questions
 - [Upgrading RubyGems](http://stackoverflow.com/questions/13626143/how-to-upgrade-rubygems) - this might help solve the `undefined method 'this'` problem
