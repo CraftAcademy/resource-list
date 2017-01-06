@@ -34,6 +34,9 @@
 - [Fundamentals workshop](https://github.com/AmberWilkie/fundamentals-workshop/blob/master/workshop_main.md) - prepared by a former Craft Academy student.
 - [Code visualizer](http://www.pythontutor.com/visualize.html#mode=edit) - really cool thing that steps through your code, showing you how your computer executes it.
 
+## Ethics
+- [Most common textbook for CS ethics courses](https://www.amazon.com/Gift-Fire-Ethical-Computing-Technology/dp/0132492679?tag=insider-safetynet-20) - _A Gift of Fire: Social, Legal and Ethical Issues for Computing Technology_
+
 ## Visual Resources
 - [Tynker](https://itunes.apple.com/us/app/tynker-learn-programming-visual/id805869467) - an iPhone game that teaches programming fundamentals. Childish but good for beginners who are having trouble processing the text.
 - [Lrn](http://lrnapp.com/) - phone game for iPhone or Android with lots of mini quizzes
