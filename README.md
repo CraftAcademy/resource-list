@@ -17,6 +17,7 @@
 ## Javascript and jQuery
 - Codecademy Javascript
 - [jQuery cheat sheet](https://makeawebsitehub.com/jquery-mega-cheat-sheet/)
+- [Try jQuery](http://try.jquery.com/levels/1/challenges/1) - well-paced, somewhat lengthy tutorial on basic jQuery elements and their use
 
 ## HTML and CSS
 - Codecademy HTML
