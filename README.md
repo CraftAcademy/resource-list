@@ -35,6 +35,9 @@
 - [Fundamentals workshop](https://github.com/AmberWilkie/fundamentals-workshop/blob/master/workshop_main.md) - prepared by a former Craft Academy student.
 - [Code visualizer](http://www.pythontutor.com/visualize.html#mode=edit) - really cool thing that steps through your code, showing you how your computer executes it.
 
+## Career
+- [An opinionated guide to writing developer resumes in 2017](https://medium.freecodecamp.com/how-to-write-a-good-resume-in-2017-b8ea9dfdd3b9#.7aevbhb44) - in-depth reference for how to craft a developer resume: what to include, what to leave out, how to structure.
+
 ## Ethics
 - [Most common textbook for CS ethics courses](https://www.amazon.com/Gift-Fire-Ethical-Computing-Technology/dp/0132492679?tag=insider-safetynet-20) - _A Gift of Fire: Social, Legal and Ethical Issues for Computing Technology_
 
