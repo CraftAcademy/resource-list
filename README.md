@@ -13,15 +13,19 @@
 - [Capybara matchers cheat sheet](https://gist.github.com/tomas-stefano/6652111)
 - Codecademy Ruby
 - [Ruby classes explained](https://blog.makersacademy.com/coding101-ruby-classes-explained-b0645a721288#.7sfet3zg0)
+- [Ruby in 100 minutes](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html)
+- [Learn Ruby the hard way](https://learnrubythehardway.org/book/intro.html)
 
 ## Javascript and jQuery
 - Codecademy Javascript
 - [jQuery cheat sheet](https://makeawebsitehub.com/jquery-mega-cheat-sheet/)
 - [Try jQuery](http://try.jquery.com/levels/1/challenges/1) - well-paced, somewhat lengthy tutorial on basic jQuery elements and their use
+- [Eloquent Javascript (Chap 1-9)](http://eloquentjavascript.net/)
 
 ## HTML and CSS
 - Codecademy HTML
 - [HTML cheat sheet](http://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf)
+- [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
 
 ## Markdown
 - [Markdown Tutorial](http://commonmark.org/help/tutorial/)
@@ -30,6 +34,7 @@
 - [Rails guides](http://guides.rubyonrails.org/) - extremely helpful series of documentation about Rails. Use this as a first resource for anything basic - routing, Active Record, params, views, etc.
 - [Sinatra Documentation](http://www.sinatrarb.com/intro.html)
 - [DataMapper Documentation](http://datamapper.org/docs/)
+- [Ruby on Rails Tutorial - Michael Hartl](https://www.railstutorial.org/book) - Was recently updated for Rails 5
 
 ## Programming Fundamentals
 - [Fundamentals workshop](https://github.com/AmberWilkie/fundamentals-workshop/blob/master/workshop_main.md) - prepared by a former Craft Academy student.
