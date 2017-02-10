@@ -42,6 +42,7 @@
 
 ## Career
 - [An opinionated guide to writing developer resumes in 2017](https://medium.freecodecamp.com/how-to-write-a-good-resume-in-2017-b8ea9dfdd3b9#.7aevbhb44) - in-depth reference for how to craft a developer resume: what to include, what to leave out, how to structure.
+- [Live example of a backend interview test](https://github.com/fishbrain/job-assignment-backend-engineer) - from FishBrain. "The goal of this project is to assess development skills suitable for a backend developer position. It tests knowledge and proficiency with software design, unit testing and web technologies like HTTP and REST."
 
 ## Ethics
 - [Most common textbook for CS ethics courses](https://www.amazon.com/Gift-Fire-Ethical-Computing-Technology/dp/0132492679?tag=insider-safetynet-20) - _A Gift of Fire: Social, Legal and Ethical Issues for Computing Technology_
@@ -59,4 +60,4 @@
 - [Top Ten Atom Packages](https://www.sitepoint.com/10-essential-atom-add-ons/) - customize your Atom with handy extensions that make it easier to code.
 - [Internet Protocols](internet_protocols.md)
 - [OSX Terminal Cheat Sheet](osx-cheatsheet.md)
-- [Live example of a backend interview test](https://github.com/fishbrain/job-assignment-backend-engineer) - from FishBrain. "The goal of this project is to assess development skills suitable for a backend developer position. It tests knowledge and proficiency with software design, unit testing and web technologies like HTTP and REST."
+- [How to ask questions the smart way](http://www.catb.org/~esr/faqs/smart-questions.html)
