@@ -21,6 +21,8 @@
 - [jQuery cheat sheet](https://makeawebsitehub.com/jquery-mega-cheat-sheet/)
 - [Try jQuery](http://try.jquery.com/levels/1/challenges/1) - well-paced, somewhat lengthy tutorial on basic jQuery elements and their use
 - [Eloquent Javascript (Chap 1-9)](http://eloquentjavascript.net/)
+- [#Javascript30](https://javascript30.com/) - an advanced tutorial series covering lots of neat, but obscure stuff and ES6 syntax
+- [Everything I learned in #Javascript30](https://medium.com/craft-academy/everything-i-learned-from-javascript30-d8d2db246b7#.g1byrv89c) - A companion to the video series prepared by Amber
 
 ## HTML and CSS
 - Codecademy HTML
@@ -35,6 +37,11 @@
 - [Sinatra Documentation](http://www.sinatrarb.com/intro.html)
 - [DataMapper Documentation](http://datamapper.org/docs/)
 - [Ruby on Rails Tutorial - Michael Hartl](https://www.railstutorial.org/book) - Was recently updated for Rails 5
+- CA alumni Rodrigo's notes and video resources for Rails:
+  - [Intro to Rails Dave Jones Spokane Community College](https://www.evernote.com/shard/s30/sh/fb91b2fb-6852-40ef-842d-24ba74370af5/c95ba91ade72e584e33d6ed4d3616d2d)
+  - [On rails routes - understanding routes](https://www.evernote.com/shard/s30/sh/ed061497-23b5-4f31-9c8d-65eadcd84d84/2f3787cb3eb051d84fa6aa4db596f042)
+  - [Understanding MVC and REST in Ruby on Rails 1/2](https://www.evernote.com/shard/s30/sh/be7ac537-55b1-4161-a171-96338e82c6ed/7907bd507175494824a36401a3e74150)
+  - [Understanding MVC and REST in Ruby on Rails 2/2](https://www.evernote.com/shard/s30/sh/e5bb1e3a-7272-4f44-8414-75c8ebfcf6c3/80d715f0239ce7754220734e42599873)
 
 ## Programming Fundamentals
 - [Fundamentals workshop](https://github.com/AmberWilkie/fundamentals-workshop/blob/master/workshop_main.md) - prepared by a former Craft Academy student.
@@ -61,3 +68,4 @@
 - [Internet Protocols](internet_protocols.md)
 - [OSX Terminal Cheat Sheet](osx-cheatsheet.md)
 - [How to ask questions the smart way](http://www.catb.org/~esr/faqs/smart-questions.html)
+- [Tool to make gifs](https://getkap.co/) - useful for blogging or demonstrating multi-step code / functions
