@@ -23,11 +23,13 @@
 - [Eloquent Javascript (Chap 1-9)](http://eloquentjavascript.net/)
 - [#Javascript30](https://javascript30.com/) - an advanced tutorial series covering lots of neat, but obscure stuff and ES6 syntax
 - [Everything I learned in #Javascript30](https://medium.com/craft-academy/everything-i-learned-from-javascript30-d8d2db246b7#.g1byrv89c) - A companion to the video series prepared by Amber
+- [Everything I learned from ES6 for Everyone](https://medium.com/@heyamberwilkie/everything-i-learned-from-es6-for-everyone-ff93ebc64b86) - Another blog post by Amber, this time covering the new ES6 syntax ("modern" Javascript)
 
 ## HTML and CSS
 - Codecademy HTML
 - [HTML cheat sheet](http://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf)
 - [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
+- [Practical Color Theory for People Who Code](https://tallys.github.io/color-theory/) - Really cool interactive tool for selecting website colors
 
 ## Markdown
 - [Markdown Tutorial](http://commonmark.org/help/tutorial/)
@@ -50,6 +52,12 @@
 ## Career
 - [An opinionated guide to writing developer resumes in 2017](https://medium.freecodecamp.com/how-to-write-a-good-resume-in-2017-b8ea9dfdd3b9#.7aevbhb44) - in-depth reference for how to craft a developer resume: what to include, what to leave out, how to structure.
 - [Live example of a backend interview test](https://github.com/fishbrain/job-assignment-backend-engineer) - from FishBrain. "The goal of this project is to assess development skills suitable for a backend developer position. It tests knowledge and proficiency with software design, unit testing and web technologies like HTTP and REST."
+
+## Podcasts
+- [Code Newbie](http://www.codenewbie.org/) - My favorite coding podcast. Lots of great back-episodes, like [this one](http://www.codenewbie.org/podcast/mom-and-son-learn-to-code) which interviews a mother/son team who both went to bootcamp.
+- [Ruby Rogues](https://devchat.tv/ruby-rogues) - Ruby-specific discussion. Perhaps good to take on towards the end of the camp.
+- [ShopTalk](http://shoptalkshow.com/) - A giant mish-mash of coding and related topics. Great for getting exposed to a high-level discussion of things and learning lingo.
+- [Kodsnack](http://kodsnack.se/) - Not the best podcast ever, but it is in Swedish.
 
 ## Ethics
 - [Most common textbook for CS ethics courses](https://www.amazon.com/Gift-Fire-Ethical-Computing-Technology/dp/0132492679?tag=insider-safetynet-20) - _A Gift of Fire: Social, Legal and Ethical Issues for Computing Technology_
