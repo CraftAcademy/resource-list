@@ -77,3 +77,4 @@
 - [OSX Terminal Cheat Sheet](osx-cheatsheet.md)
 - [How to ask questions the smart way](http://www.catb.org/~esr/faqs/smart-questions.html)
 - [Tool to make gifs](https://getkap.co/) - useful for blogging or demonstrating multi-step code / functions
+- [The "Learn to Code" Algorithm](https://github.com/Kgotso-Koete/The-learn-to-code-algorithm) - Great article about learning to code - how to do what works for you. How to approach learning.
