@@ -49,6 +49,13 @@
 - [Fundamentals workshop](https://github.com/AmberWilkie/fundamentals-workshop/blob/master/workshop_main.md) - prepared by a former Craft Academy student.
 - [Code visualizer](http://www.pythontutor.com/visualize.html#mode=edit) - really cool thing that steps through your code, showing you how your computer executes it.
 
+## Agile and Scrum
+- [Introduction to Scrum - Scrum Guides](http://www.scrumguides.org/)
+- [In over 40 languages](http://www.scrumguides.org/download.html)
+- [Scrum Assessments](https://www.scrum.org/open-assessments) Scrum.org offers many tools and resources free to the software development community
+  - [Scrum Open](https://www.scrum.org/open-assessments/scrum-open)
+  - [Developer Open](https://www.scrum.org/open-assessments/scrum-developer-open)
+
 ## Career
 - [An opinionated guide to writing developer resumes in 2017](https://medium.freecodecamp.com/how-to-write-a-good-resume-in-2017-b8ea9dfdd3b9#.7aevbhb44) - in-depth reference for how to craft a developer resume: what to include, what to leave out, how to structure.
 - [Live example of a backend interview test](https://github.com/fishbrain/job-assignment-backend-engineer) - from FishBrain. "The goal of this project is to assess development skills suitable for a backend developer position. It tests knowledge and proficiency with software design, unit testing and web technologies like HTTP and REST."
