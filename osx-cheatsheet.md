@@ -1,5 +1,5 @@
 # Cheat-sheet OsX
-###Shortcuts
+### Shortcuts
 
 | Key/Command | Description                                                                                            |
 |-------------|--------------------------------------------------------------------------------------------------------|
@@ -23,7 +23,7 @@
 | Esc + T     | Swap the last two words before the cursor                                                              |
 | Tab         | Auto-complete files and folder names                                                                   |
 
-###Core commands
+### Core commands
 | Key/Command                                   | Description                          |
 |-----------|----------------------------------------------------------------|
 | cd             | Home directory                                                            |
@@ -43,7 +43,7 @@
 | q              | Exit                                                                      |
 | clear          | Clear screen                                                              |
 
-###Command History
+### Command History
 
 | Key/Command                                   | Description                          |
 |-----------|----------------------------------------------------------------|
@@ -52,7 +52,7 @@
 | ![value]  | Execute the last command typed that starts with ‘value’        |
 | !!        | Execute the last command typed                                 |
 
-###File management
+### File management
 
 | Key/Command                                   | Description                          |
 |-----------------------------------------------|--------------------------------------|
@@ -73,7 +73,7 @@
 | mv [file] [new filename]                      | Move/Rename, e.g. mv -v [file] [dir] |
 
 
-###Folder management
+### Folder management
 
 | Key/Command                                   | Description                          |
 |-----------------------------------------------|--------------------------------------|
@@ -82,7 +82,8 @@
 | rmdir [dir]          | Remove directory ( only operates on empty directories ) |
 | rm -R [dir]          | Remove directory and contents                           |
 
-###Geting help
+### Geting help
+
 | Key/Command      | Description                          |
 |------------------|--------------------------------------|
 | [command] -h     | Offers help                               |
