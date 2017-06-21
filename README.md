@@ -44,6 +44,8 @@
   - [On rails routes - understanding routes](https://www.evernote.com/shard/s30/sh/ed061497-23b5-4f31-9c8d-65eadcd84d84/2f3787cb3eb051d84fa6aa4db596f042)
   - [Understanding MVC and REST in Ruby on Rails 1/2](https://www.evernote.com/shard/s30/sh/be7ac537-55b1-4161-a171-96338e82c6ed/7907bd507175494824a36401a3e74150)
   - [Understanding MVC and REST in Ruby on Rails 2/2](https://www.evernote.com/shard/s30/sh/e5bb1e3a-7272-4f44-8414-75c8ebfcf6c3/80d715f0239ce7754220734e42599873)
+  - [Paperclip - adding image upload in Rails](https://medium.com/craft-academy/image-storage-rails-rspec-cucumber-7eea50d074ff)
+  - [AWS storage for Paperclip](https://medium.com/craft-academy/some-cloud-action-paperclip-rails-rspec-c70b79c65be3)
 
 ## Programming Fundamentals
 - [Fundamentals workshop](https://github.com/AmberWilkie/fundamentals-workshop/blob/master/workshop_main.md) - prepared by a former Craft Academy student.
